@@ -342,3 +342,18 @@ a{
       font-size: 1.7rem;
     }
   }
+
+  /* Media */
+  .media{
+      display: flex;
+  }
+  .media__image{
+    margin-top: 1rem;
+  }
+  .media__body{
+    margin-left: 2rem;
+  }
+  .media__titel{
+      margin-top: 0;
+      text-transform: capitalize;
+  }
