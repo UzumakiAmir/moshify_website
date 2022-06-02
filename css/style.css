@@ -438,6 +438,11 @@ a{
             grid-template-columns: repeat(2, 1fr);
         }
   }
+  @media screen and (min-width: 1024px) {
+    .grid--1x3 {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
 
 /* Testimonial */
 .testimonial{
@@ -687,6 +692,18 @@ a{
   .block-domain__prices {
     grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
   }
+}
+
+/* *********************************************** */
+/* Plans Block */
+
+.block-plans .grid {
+  gap: 8rem 4rem;
+}
+
+.block-plans .card {
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 /* *********************************************** */
