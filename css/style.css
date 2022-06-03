@@ -181,7 +181,7 @@ a{
      cursor: pointer;
      font-size: 1.8rem;
      font-weight: 600;
-     padding: 2rem 3rem;
+     padding: 2rem 4vh;
      text-transform: uppercase;
      white-space: nowrap;
      
@@ -267,6 +267,7 @@ a{
      border: 0;
      flex-grow: 1;
      padding: 1.5rem 1rem;
+     width: 0;
  }
  .input-group .btn{
     margin: 4px;
