@@ -1,0 +1,20 @@
+{
+  "name": "html_css_finlaproject",
+  "version": "1.0.0",
+  "description": "I build front end of a site for example cloud hosting company. This is a guided project did in part-3 of HTML and CSS series by Mosh Hamedani",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzumakiAmir/moshify_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UzumakiAmir/moshify_website/issues"
+  },
+  "homepage": "https://github.com/UzumakiAmir/moshify_website#readme"
+}
